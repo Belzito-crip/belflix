@@ -79,3 +79,11 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+.link-imagem {
+    transition: transform 0.3s;
+}
+
+.link-imagem:hover {
+    transform: scale(1.1);
+}
